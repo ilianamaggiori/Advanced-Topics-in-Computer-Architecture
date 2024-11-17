@@ -1,0 +1,8 @@
+Total Instructions: 108730007794
+
+Branch Predictors: (Name - Correct - Incorrect)
+  Nbit-32K-1: 3159259912 84667893
+  2bit-16K-2: 3197324893 46602912
+  Nbit-16K-2: 3197669611 46258194
+  Nbit-8K-4: 3198990627 44937178
+

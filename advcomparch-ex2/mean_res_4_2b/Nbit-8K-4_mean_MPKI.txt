@@ -1,0 +1,2 @@
+For predictor Nbit-8K-4 and for all 14 benchmarks we found that: 
+Mean MPKI: 11.424452

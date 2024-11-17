@@ -1,0 +1,2 @@
+For RAS with 32 entries and for all 14 benchmarks we found that: 
+Mean MPKI: .027457

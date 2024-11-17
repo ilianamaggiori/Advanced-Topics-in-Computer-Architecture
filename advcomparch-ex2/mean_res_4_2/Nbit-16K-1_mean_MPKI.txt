@@ -1,0 +1,2 @@
+For predictor Nbit-16K-1 and for all 14 benchmarks we found that: 
+Mean MPKI: 15.671952

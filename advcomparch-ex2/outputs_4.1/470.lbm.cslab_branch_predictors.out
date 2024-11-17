@@ -1,0 +1,9 @@
+Total Instructions: 92358987742
+
+Branch statistics:
+  Total-Branches: 1354361697
+  Conditional-Taken-Branches: 181675599
+  Conditional-NotTaken-Branches: 915477710
+  Unconditional-Branches: 251946630
+  Calls: 2630881
+  Returns: 2630877
