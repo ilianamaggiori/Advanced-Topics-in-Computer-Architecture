@@ -1,0 +1,10 @@
+Total Instructions: 80776860257
+
+RAS: (Correct - Incorrect)
+RAS (4 entries): 3678823 30415
+RAS (8 entries): 3706896 2342
+RAS (16 entries): 3709235 3
+RAS (32 entries): 3709238 0
+RAS (48 entries): 3709238 0
+RAS (64 entries): 3709238 0
+
