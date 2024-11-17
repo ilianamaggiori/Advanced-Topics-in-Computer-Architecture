@@ -1,1 +1,0 @@
--o benchADM.out -e benchADM.err ./cactusADM_base.amd64-m64-gcc42-nn benchADM.par
